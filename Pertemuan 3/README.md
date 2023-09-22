@@ -1,1 +1,1 @@
-#Modul Registrasi akun
+#Modul 6 Registrasi akun
